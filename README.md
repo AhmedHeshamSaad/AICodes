@@ -1,4 +1,4 @@
-# My code assignments during Artificial Intiligence course offered by Harvard University
+# My code assignments during Artificial Intelligence course offered by Harvard University
 
 Youtube link shows code in action:
 https://www.youtube.com/playlist?list=PLfrWDrvAcglUGSD5B9MY4z0tUGQuHY-KL
