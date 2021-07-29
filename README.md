@@ -3,28 +3,62 @@
 Youtube link shows code in action:
 https://www.youtube.com/playlist?list=PLfrWDrvAcglUGSD5B9MY4z0tUGQuHY-KL
 
+## Topics:
+### Search: 
+Search algorithms-Adversarial search
 
-Questions:      AI to answer questions.
+### Knowledge: 
+Knowledge modeling-Inferences-Propositional Logic-First Order Logic
 
-Parser:         AI to parse sentences and extract noun phrases.
+### Uncertainty: 
+Knowledge uncertainty and probability-Bayesian Networks-Markov Model
 
-Traffic:        AI to identify which traffic sign appears in a photograph.
+### Optimization Search: 
+Simulated annealing-Constraint satisfaction problems
 
-Nim:            AI that teaches itself to play Nim through reinforcement learning.
+### Learning: 
+Machine Learning-Supervised Learning-Classifications and regression-Reinforcement Learning-Q learning-Unsupervised Learning-Clustring
 
-Shopping:       AI to predict whether online shopping customers will complete a purchase.
+### Neural Networks: 
+Multilayer Neural Networks-Gradient Descent-Computer Vision-Convolutional Neural Networks-Recurrent Neural Networks
 
-Crossword:      AI to generate crossword puzzles.
+### Language: 
+Natural Language Processing, Context-Free Grammer, Bag-of-Words Model, Information Retrieval, Information Extraxtion, Vector representation of words, Skip-Gram Architecture
 
-Heredity:       AI to assess the likelihood that a person will have a particular genetic trait.
+## Projects: 
+### Questions:      
+AI to answer questions using natural language processing with access to a corpus of text documents. 
 
-PageRank:       AI to rank web pages by importance.
+### Parser:         
+AI to parse English sentences and extract noun phrases.
 
-Minesweeper:    AI to play Minesweeper.
+### Traffic:        
+Multilayer Convolutional Neural Network to identify which traffic sign appears in a photograph.
 
-Knights:        Program to solve logic puzzles.
+### Nim:            
+AI that teaches itself to play Nim through reinforcement learning.
 
-Degrees:        Program that determines how many “degrees of separation” apart two actors are.
+### Shopping:       
+AI to predict whether online shopping customers will complete a purchase.
 
-TicTacToe:      Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
+### Crossword:      
+AI to generate crossword puzzles.
+
+### Heredity:       
+AI to assess the likelihood that a person will have a particular genetic trait.
+
+### PageRank:       
+AI to rank web pages by importance.
+
+### Minesweeper:    
+AI to play Minesweeper.
+
+### Knights:        
+Program to solve logic puzzles.
+
+### Degrees:        
+Program that determines how many “degrees of separation” apart two actors are.
+
+### TicTacToe:      
+Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
